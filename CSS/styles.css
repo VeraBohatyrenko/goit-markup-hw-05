@@ -172,11 +172,13 @@ img {
 }
 
 .icon-mail {
- margin-right: 10px; 
+ margin-right: 10px;
+ fill: var(--secondary-text-color); 
 }
 
 .icon-phone {
-  margin-right: 10px; 
+  margin-right: 10px;
+  fill: var(--secondary-text-color);
  }
 
  .link-mail:hover .icon-mail,
